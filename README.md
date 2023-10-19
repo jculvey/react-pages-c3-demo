@@ -1,1 +1,1 @@
-Nothing to see here!
+Demo of a simple hello world react app deployed on Cloudflare Pages
